@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParalelloPay-MPI", "ParalelloPay-MPI.csproj", "{EF8CC260-821B-487F-8914-AC7DDEBC734D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParalelloPay-MPI.Persistence", "ParalelloPay-MPI.Persistence\ParalelloPay-MPI.Persistence.csproj", "{67A108A4-605F-4166-8EBA-45DB8D761586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParalelloPay-MPI.Domain", "ParalelloPay-MPI.Domain\ParalelloPay-MPI.Domain.csproj", "{44AC9B88-CF40-4259-B156-1FAF50C64A49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParalelloPay-MPI.Application", "ParalelloPay-MPI.Application\ParalelloPay-MPI.Application.csproj", "{680E1794-682C-432D-A0BD-535928066470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF8CC260-821B-487F-8914-AC7DDEBC734D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8CC260-821B-487F-8914-AC7DDEBC734D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8CC260-821B-487F-8914-AC7DDEBC734D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8CC260-821B-487F-8914-AC7DDEBC734D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A108A4-605F-4166-8EBA-45DB8D761586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A108A4-605F-4166-8EBA-45DB8D761586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A108A4-605F-4166-8EBA-45DB8D761586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A108A4-605F-4166-8EBA-45DB8D761586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44AC9B88-CF40-4259-B156-1FAF50C64A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AC9B88-CF40-4259-B156-1FAF50C64A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AC9B88-CF40-4259-B156-1FAF50C64A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AC9B88-CF40-4259-B156-1FAF50C64A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680E1794-682C-432D-A0BD-535928066470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680E1794-682C-432D-A0BD-535928066470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680E1794-682C-432D-A0BD-535928066470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680E1794-682C-432D-A0BD-535928066470}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
